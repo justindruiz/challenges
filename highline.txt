@@ -1,0 +1,10 @@
+# Create a new file called highline.txt to work on this exercise.
+# Install highline and explore its documentation.
+# Write three comments on what it does.
+# 1 It makes retrieving information from user easier
+# 2 It makes inputing information easier
+# 3 Saves time b/c don't need to code all the error and validation checking rules
+# Write three comments on how to use it.
+# 1 ask("Age?  ", Integer) { |q| q.in = 0..105 } asks age within a range
+# 2 ask("Birthday?  ", Date) type conversion for answers
+# 3 ask("Company?  ") { |q| q.default = "none" } ask anything you want
